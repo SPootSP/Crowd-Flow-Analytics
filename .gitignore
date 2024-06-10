@@ -1,0 +1,7 @@
+Other/datasets/*
+Other/data/*
+*__pycache__
+**/images/**
+Other/models/**/ynet_additional_files/**
+Other/CSRNet/
+**.pt
